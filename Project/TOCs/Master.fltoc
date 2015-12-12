@@ -6,23 +6,23 @@
     Link="/Content/Topic.htm" />
   <TocEntry
     Title="Description"
-    Link="/Content/Description of the logo.htm" />
+    Link="/Content/1Description of the logo.htm" />
   <TocEntry
     Title="History"
-    Link="/Content/History of the company and the development of the logo.htm" />
+    Link="/Content/2History of the company and the development of the logo.htm" />
   <TocEntry
     Title="Identity system"
-    Link="/Content/How the identity system and logo has evolved to reflect society.htm" />
+    Link="/Content/3How the identity system and logo has evolved to reflect society.htm" />
   <TocEntry
     Title="Designer"
-    Link="/Content/Who was the designer(s).htm" />
+    Link="/Content/4Who was the designer(s).htm" />
   <TocEntry
     Title="Uniqueness"
-    Link="/Content/What is unique about the logo - identity.htm" />
+    Link="/Content/5What is unique about the logo - identity.htm" />
   <TocEntry
     Title="Branding"
-    Link="/Content/What is recognizable about the branding.htm" />
+    Link="/Content/6What is recognizable about the branding.htm" />
   <TocEntry
     Title="Evolution"
-    Link="/Content/How has technology influenced the evolution of your company and the development of their corporate identity - logo.htm" />
+    Link="/Content/7How has technology influenced the evolution of your company and the development of their corporate identity - logo.htm" />
 </CatapultToc>

@@ -15,4 +15,7 @@
   <Variable
     Name="p"
     Comment="">Pemberton</Variable>
+  <Variable
+    Name="spenc"
+    Comment="">Spencerian script</Variable>
 </CatapultVariableSet>

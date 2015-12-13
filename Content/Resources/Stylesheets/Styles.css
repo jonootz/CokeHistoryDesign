@@ -88,3 +88,10 @@ MadCap|dropDownHotspot
 	color: #006600;
 }
 
+img.thumb
+{
+	border: none;
+	mc-thumbnail-max-height: 200px;
+	mc-thumbnail: popup;
+}
+

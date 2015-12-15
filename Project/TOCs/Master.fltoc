@@ -2,25 +2,6 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="Topic"
-    Link="/Content/Topic.htm" />
-  <TocEntry
-    Title="Description" />
-  <TocEntry
-    Title="History"
-    Link="/Content/CocaCola/2History of the company and the development of the logo.htm" />
-  <TocEntry
-    Title="Identity system"
-    Link="/Content/CocaCola/3How the identity system and logo has evolved to reflect society.htm" />
-  <TocEntry
-    Title="Designer" />
-  <TocEntry
-    Title="Uniqueness"
-    Link="/Content/CocaCola/5What is unique about the logo - identity.htm" />
-  <TocEntry
-    Title="Branding"
-    Link="/Content/CocaCola/6What is recognizable about the branding.htm" />
-  <TocEntry
-    Title="Evolution"
-    Link="/Content/CocaCola/7How has technology influenced the evolution of your company and the development of their corporate identity - logo.htm" />
+    Title="!!!PDFtopic"
+    Link="/Content/CocaCola/!!!PDFtopic.htm" />
 </CatapultToc>

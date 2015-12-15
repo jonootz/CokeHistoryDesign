@@ -2,9 +2,6 @@
 <CatapultToc
   Version="1">
   <TocEntry
-    Title="!!!PDFtopic"
-    Link="/Content/CocaCola/!!!PDFtopic.htm" />
-  <TocEntry
-    Title="Citations"
-    Link="/Content/Citations.htm" />
+    Title="Permissions"
+    Link="/Content/Permissions2.htm" />
 </CatapultToc>

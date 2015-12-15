@@ -4,4 +4,7 @@
   <TocEntry
     Title="!!!PDFtopic"
     Link="/Content/CocaCola/!!!PDFtopic.htm" />
+  <TocEntry
+    Title="Citations"
+    Link="/Content/Citations.htm" />
 </CatapultToc>

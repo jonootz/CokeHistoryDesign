@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<MsWordImport
+  PreserveSourceStyles="False"
+  KeepSourceLinks="true"
+  ConvertInlineFormatting="true"
+  AddContinuedLinks="false"
+  AddContinuedFromLinks="false"
+  ContinuedLinkFormat="(continued in {title})"
+  ContinuedFromLinkFormat="(continued from {title})"
+  UseMaxCharLimit="false"
+  UseMinCharLimit="true"
+  MaxCharLimit="10000"
+  MinCharLimit="50"
+  FilenameLength="24"
+  GeneratePageLayouts="false"
+  UseFirstHeadingAsTopicTitle="true"
+  LastCollectTime="2015-12-15T15:05:38.6848356-08:00"
+  ProjectName="Coca-Cola"
+  ProjectFolder="C:\Users\jharkins\Documents\MySAVEDProjects\Coca-Cola\"
+  AutoSync="false"
+  AutoFitTables="false"
+  UseHeaderRows="false"
+  LastImport="2015-12-15T15:05:40.8013277-08:00">
+  <Files>
+    <Url
+      Source="../../John Harkins-Corporate Identity-Coca-Cola2.doc"
+      AbsoluteSource="file:///C:/Users/jharkins/Documents/MySAVEDProjects/Coca-Cola/John Harkins-Corporate Identity-Coca-Cola2.doc" />
+  </Files>
+  <ExcludedFiles />
+  <CollectedSourceFiles />
+  <SkippedSourceFiles />
+  <GeneratedFiles>
+    <Url
+      Source="../../Content/John Harkins-Corporate Identity-Coca-Cola2/John Harkins.htm"
+      TimeStamp="12/15/2015 3:05:38 PM" />
+    <Url
+      Source="../../Content/John Harkins-Corporate Identity-Coca-Cola2/Bibliography.htm"
+      TimeStamp="12/15/2015 3:05:38 PM" />
+    <Url
+      Source="../TOCs/John Harkins-Corporate Identity-Coca-Cola2.fltoc"
+      TimeStamp="12/15/2015 3:05:38 PM" />
+    <Url
+      Source="../../Content/Resources/MasterPages/John Harkins-Corporate Identity-Coca-Cola2.flmsp"
+      TimeStamp="12/15/2015 3:05:38 PM" />
+    <Url
+      Source="../../Content/Resources/Stylesheets/John Harkins-Corporate Identity-Coca-Cola2.css"
+      TimeStamp="12/15/2015 3:05:38 PM" />
+  </GeneratedFiles>
+  <ParagraphStyles />
+  <CharacterStyles>
+    <Map
+      From="Hyperlink"
+      To="a.(MS Word Style)" />
+  </CharacterStyles>
+  <NewTopicStyles />
+  <UsedParagraphStyles>
+    <StyleName
+      Name="p_1" />
+    <StyleName
+      Name="p" />
+  </UsedParagraphStyles>
+  <UsedCharacterStyles>
+    <StyleName
+      Name="cite" />
+    <StyleName
+      Name="variable" />
+  </UsedCharacterStyles>
+</MsWordImport>
